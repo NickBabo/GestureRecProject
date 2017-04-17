@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					E3E5BB6A1EA5457B00D81DE2 = {
 						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = 98H8AFME2H;
 						ProvisioningStyle = Automatic;
 					};
 					E3E5BB7E1EA5457B00D81DE2 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 98H8AFME2H;
 				INFOPLIST_FILE = GestureProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = br.babo.nick.GestureProject;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 98H8AFME2H;
 				INFOPLIST_FILE = GestureProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = br.babo.nick.GestureProject;
